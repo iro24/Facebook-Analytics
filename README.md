@@ -3,6 +3,7 @@ If you ever thought that Facebook and Messenger are storing many things about yo
 
 In order to download your Facebook data, follow instructions provided in this link:
 https://www.facebook.com/help/302796099745838
+
 Once you have the archive, open it and go to html folder and copy "messages.htm" in your directory.
 
 You can do the following with this Jupyter notebook:

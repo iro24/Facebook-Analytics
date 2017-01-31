@@ -1,5 +1,6 @@
 # Facebook-Analytics
 If you ever thought that Facebook and Messenger are storing many things and with this small project, you will get an insight on how dependent are you on this social network.
+
 In order to download you Facebook data, please follow instructions provided in this link:
 https://www.facebook.com/help/302796099745838
 Once you have the archive, open it and go to html folder and copy "messages.htm" in your directory.
